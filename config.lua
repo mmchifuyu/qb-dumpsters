@@ -1,6 +1,6 @@
 Config = Config or {}
 
-Config.MoneyReward = math.random(18, 24)
+Config.MoneyReward = math.random(18, 26)
 
 --33% on each to get money/an item or nothing
 Config.RewardTypes = {
